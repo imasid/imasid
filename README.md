@@ -1,8 +1,7 @@
-# Siddharth-<style>
-@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
-</style>
 
-<center>
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+
 
 <h1 style="font-family:'Orbitron', sans-serif;">hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
@@ -18,7 +17,6 @@
 <a href="https://www.reddit.com/user/CrucifiedCrusader/">
   <img alt="Sid's Reddit" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
-</center>
 
 ---
 
@@ -39,4 +37,12 @@
 **Languages I Use **
 
 <code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/c%20only.svg"></code>
+<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/c%2B%2B.svg"></code>
+<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/java.svg"></code>
+<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/python.svg"></code>
+<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/kotlin.svg"></code>
+<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/html.svg"></code>
+<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/css.svg"></code>
+<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/javascript.svg"></code>
+<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/react.svg"></code>
 
