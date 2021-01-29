@@ -34,12 +34,12 @@
 **Languages I Use**
 
 <code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/c%20only.svg"></code>
-<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/c%2B%2B.svg"></code>
-<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/java.svg"></code>
-<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/python.svg"></code>
-<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/kotlin.svg"></code>
-<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/html.svg"></code>
-<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/css.svg"></code>
-<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/javascript.svg"></code>
-<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/react.svg"></code>
+<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/c%2B%2B.svg"></code>
+<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/java.svg"></code>
+<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/python.svg"></code>
+<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/kotlin.svg"></code>
+<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/html.svg"></code>
+<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/css.svg"></code>
+<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/javascript.svg"></code>
+<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/react.svg"></code>
 
