@@ -1,7 +1,4 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap')
-
-<div style="text-align:center">
 
 <h1 style="font-family:'Orbitron', sans-serif;">hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
@@ -23,7 +20,6 @@
 ![iMAGE](https://data.whicdn.com/images/295908267/original.gif)
 
 <!-- ![This is Wallpaper](https://cdnb.artstation.com/p/assets/images/images/014/281/887/original/brandon-ellis-cyber.gif?1543324220) -->
-</div>
 
 ---
 
@@ -35,15 +31,15 @@
 - My contact : [My twitter handle ](https://twitter.com/Sid_1_);
 - 📝[CV](https://drive.google.com/file/d/1qphGnoEWL4nyXjfNtHiXFgcYt3fkMEcO/view?usp=sharing)
 
-**Languages I Use **
+**Languages I Use**
 
-<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/c%20only.svg"></code>
-<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/c%2B%2B.svg"></code>
-<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/java.svg"></code>
-<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/python.svg"></code>
-<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/kotlin.svg"></code>
-<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/html.svg"></code>
-<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/css.svg"></code>
-<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/javascript.svg"></code>
-<code><img height="20==" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/react.svg"></code>
+<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/c%20only.svg"></code>
+<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/c%2B%2B.svg"></code>
+<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/java.svg"></code>
+<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/python.svg"></code>
+<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/kotlin.svg"></code>
+<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/html.svg"></code>
+<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/css.svg"></code>
+<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/javascript.svg"></code>
+<code><img height="20" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/react.svg"></code>
 
