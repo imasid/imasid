@@ -1,7 +1,7 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap')
 
-
+<div style="text-align:center">
 
 <h1 style="font-family:'Orbitron', sans-serif;">hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
@@ -23,6 +23,7 @@
 ![iMAGE](https://data.whicdn.com/images/295908267/original.gif)
 
 <!-- ![This is Wallpaper](https://cdnb.artstation.com/p/assets/images/images/014/281/887/original/brandon-ellis-cyber.gif?1543324220) -->
+</div>
 
 ---
 
