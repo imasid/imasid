@@ -2,6 +2,7 @@
 
 <h1>Hello world <img src="https://media.giphy.com/media/o4JQKVa6jHuCxlp2yU/giphy.gif" width="57px"></h1>
 
+**CONNECT WITH ME :**
 <a href="https://discord.gg/4QEKhWr">
   <img alt="Sid's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -45,7 +46,8 @@
 
 **Languages I know**
 
-<code><img height="40" src="png icons/c only.png"></code>
+<code><img height="40" style="display: inline-block;
+  margin-right: 1em;" src="png icons/c only.png"></code>
 <code><img height="40" src="png icons/c++.png"></code>
 <code><img height="40" src="png icons/java.png"></code>
 <code><img height="40" src="png icons/kotlin.png"></code>
