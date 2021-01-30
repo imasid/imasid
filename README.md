@@ -61,7 +61,7 @@
 ---
 
 
-<img align="left" width="340px" src="poster.png">
+<img align="left" width="320px" src="poster.png">
 
 ![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=imasid&show_icons=true&theme=dark)
 
