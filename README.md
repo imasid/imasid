@@ -57,7 +57,7 @@
 
 ---
 
-<img align="left" width="200px" src="poster.png">
+<img align="left" width="600px" src="poster.png">
 
 
 
