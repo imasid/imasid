@@ -17,7 +17,6 @@
 </a>
 <a href="https://www.reddit.com/user/CrucifiedCrusader/">
   <img alt="Sid's Reddit" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-  &nbsp;
 </a>
 
 ---
@@ -50,21 +49,21 @@
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
-<code><img height="40" src="png icons/c only.png"> &nbsp;</code>
+<code><img height="40" src="png icons/c only.png"> </code>
 
-<code><img height="40" src="png icons/c++.png">&nbsp;</code>
+<code><img height="40" src="png icons/c++.png"></code>
 
-<code><img height="40" src="png icons/java.png">&nbsp;</code>
+<code><img height="40" src="png icons/java.png"></code>
 
-<code><img height="40" src="png icons/kotlin.png">&nbsp;</code>
+<code><img height="40" src="png icons/kotlin.png"></code>
 
-<code><img height="40" src="png icons/python.png">&nbsp;</code>
+<code><img height="40" src="png icons/python.png"></code>
 
-<code><img height="40" src="png icons/html.png">&nbsp;</code>
+<code><img height="40" src="png icons/html.png"></code>
 
-<code><img height="40" src="png icons/css.png">&nbsp;</code>
+<code><img height="40" src="png icons/css.png"></code>
 
-<code><img height="40" src="png icons/javascript.png">&nbsp;</code>
+<code><img height="40" src="png icons/javascript.png"></code>
 
 <code><img height="40" src="png icons/react.png"></code>
 
