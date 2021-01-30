@@ -33,13 +33,13 @@
 
 **Languages I Use**
 
-<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/c%20only.svg"></code>
-<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/c%2B%2B.svg"></code>
-<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/java.svg"></code>
-<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/python.svg"></code>
-<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/kotlin.svg"></code>
-<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/html.svg"></code>
-<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/css.svg"></code>
-<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/javascript.svg"></code>
-<code><img height="40" src="https://github.com/imasid/Siddharth-/blob/main/svg%20icons/react.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/imasid/Siddharth-/main/svg%20icons/c%20only.svg?token=AIIY3O5GYEEYB6DHPBWBK23ACT6OA"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/imasid/Siddharth-/main/svg%20icons/c%2B%2B.svg?token=AIIY3O6MN5VXSRT7NVDOJWDACT6SA"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/imasid/Siddharth-/main/svg%20icons/java.svg?token=AIIY3O4N3T4B5HDEMHY6EJ3ACT6VC"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/imasid/Siddharth-/main/svg%20icons/python.svg?token=AIIY3O4DONPTPCJTXTDJBCLACT6XI"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/imasid/Siddharth-/main/svg%20icons/kotlin.svg?token=AIIY3O6KGD3R5R3FAWEZ6QDACT6ZO"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/imasid/Siddharth-/main/svg%20icons/html.svg?token=AIIY3O6EYOGAQ62ZVV2EVXDACT63G"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/imasid/Siddharth-/main/svg%20icons/css.svg?token=AIIY3OZJDWQGOCK7LDYMHCTACT64U"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/imasid/Siddharth-/main/svg%20icons/javascript.svg?token=AIIY3O2YTY2OHTKIFYYIKLLACT666"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/imasid/Siddharth-/main/svg%20icons/react.svg?token=AIIY3O2IC7R6XWUTN3LOZCLACT7A2"></code>
 
