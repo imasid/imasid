@@ -1,6 +1,6 @@
 
 
-<h1 style="font-family:'Orbitron', sans-serif;">hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>Hello world <img src="https://media.giphy.com/media/eHLOy7n3ztm42Pvh96/giphy.gif" width="25px"></h1>
 
 <a href="https://discord.gg/4QEKhWr">
   <img alt="Sid's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -21,19 +21,23 @@
 
 <img align=right src="https://data.whicdn.com/images/295908267/original.gif">
 
+**Hey there , my name is Siddharth and I am a web programmer. At present I am pursuing my bachelors in Physics.**
+
 <!-- ![This is Wallpaper](https://cdnb.artstation.com/p/assets/images/images/014/281/887/original/brandon-ellis-cyber.gif?1543324220) -->
 
-<br>
 <br><br><br><br>
 
 
 **ABOUT ME**
 
-- My name is Siddharth
-- I’m currently a Web and Android Developer
-- I have also learned Machine learning and Deep learning along the road
+- I am studying more about Machine Learning and Deep learning.
+- I’m currently proficient as a  Web and Android Developer.
+- I am also an active Investor and love Music and Film production.
 - My contact : [My twitter handle ](https://twitter.com/Sid_1_);
-- 📝[CV](https://drive.google.com/file/d/1qphGnoEWL4nyXjfNtHiXFgcYt3fkMEcO/view?usp=sharing)
+- 📝[My resume](https://drive.google.com/file/d/1qphGnoEWL4nyXjfNtHiXFgcYt3fkMEcO/view?usp=sharing)
+
+<br><br>
+
 
 **Languages I Use**
 
