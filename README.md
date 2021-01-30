@@ -41,8 +41,9 @@
 
 <br><br>
 
+---
 
-**Languages I Use**
+**Languages I know**
 
 <code><img height="40" src="png icons/c only.png"></code>
 <code><img height="40" src="png icons/c++.png"></code>
