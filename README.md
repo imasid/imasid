@@ -48,7 +48,7 @@
 ---
 
 **My Tech Stack**
-
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <code><img height="30" src="png icons/c only.png"> </code>
 <code><img height="30" src="png icons/c++.png"></code>
 <code><img height="30" src="png icons/java.png"></code>
