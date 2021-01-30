@@ -11,7 +11,7 @@
   <img alt="Sid | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   &nbsp;
 </a>
-<a href="linkedin.com/in/siddharth-shukla-63b29b1b5">
+<a href="https://linkedin.com/in/siddharth-shukla-63b29b1b5">
   <img alt="Siddharth's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   &nbsp;
 </a>
