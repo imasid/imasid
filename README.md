@@ -47,7 +47,7 @@
 
 ---
 
-<p>🛠 &nbsp;My Tech Stack</p>
+**🛠 My Tech Stack**
 
 <code><img height="40" src="png icons/c only.png"> </code>
 
