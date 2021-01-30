@@ -21,8 +21,6 @@
 
 ---
 
-<!--![iMAGE](https://data.whicdn.com/images/295908267/original.gif)-->
-
 <img align=right src="https://data.whicdn.com/images/295908267/original.gif">
 
 **Hey there , my name is Siddharth and I am a web programmer. At present I am pursuing my bachelors in Physics.**
@@ -67,7 +65,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imasid&layout=compact)](https://github.com/imasid/github-readme-stats)
 
 
 
