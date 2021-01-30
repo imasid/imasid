@@ -61,9 +61,11 @@
 
 ---
 
-<img align="left" width="400px" src="poster.png">
 
 ![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=imasid&show_icons=true&theme=dark)
+
+<img align="center" width="800px" src="poster.png">
+
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imasid&layout=compact)](https://github.com/imasid/github-readme-stats)-->
 
