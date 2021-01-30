@@ -50,29 +50,20 @@
 **My Tech Stack**
 
 <code><img height="30" src="png icons/c only.png"> </code>
-
 <code><img height="30" src="png icons/c++.png"></code>
-
 <code><img height="30" src="png icons/java.png"></code>
-
 <code><img height="30" src="png icons/kotlin.png"></code>
-
 <code><img height="30" src="png icons/python.png"></code>
-
 <code><img height="30" src="png icons/html.png"></code>
-
 <code><img height="30" src="png icons/css.png"></code>
-
 <code><img height="30" src="png icons/javascript.png"></code>
-
 <code><img height="30" src="png icons/react.png"></code>
 
 ---
 
 <img align="left" width="560px" src="poster.png">
 
-<img height="180em" src="https://github-readme-stats.imasid.vercel.app/api?username=imasid&show_icons=true&locale=en&hide_border=true" alt="imasid" />
-<img height="180em" src="https://github-readme-stats.imasid.vercel.app/api/top-langs?username=imasid&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="imasid"/>
+![Sid's GitHub stats](https://github-readme-stats.vercel.app/api?username=imasid&show_icons=true&theme=dark)
 
 
 
