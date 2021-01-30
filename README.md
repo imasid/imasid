@@ -1,6 +1,6 @@
 
 
-<h1>Hello world <img src="https://media.giphy.com/media/eHLOy7n3ztm42Pvh96/giphy.gif" width="25px"></h1>
+<h1>Hello world <img src="https://media.giphy.com/media/o4JQKVa6jHuCxlp2yU/giphy.gif" width="35px"></h1>
 
 <a href="https://discord.gg/4QEKhWr">
   <img alt="Sid's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
