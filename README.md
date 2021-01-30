@@ -46,8 +46,7 @@
 
 **Languages I know**
 
-<code><img height="40" style="display: inline-block;
-  margin-right: 1em;" src="png icons/c only.png"></code>
+<code><img height="40" src="png icons/c only.png"></code>
 <code><img height="40" src="png icons/c++.png"></code>
 <code><img height="40" src="png icons/java.png"></code>
 <code><img height="40" src="png icons/kotlin.png"></code>
