@@ -1,5 +1,5 @@
 
-
+<p align="center">
 <h1>Hello world <img src="https://media.giphy.com/media/o4JQKVa6jHuCxlp2yU/giphy.gif" width="57px"></h1>
 
 
@@ -18,6 +18,7 @@
 <a href="https://www.reddit.com/user/CrucifiedCrusader/">
   <img alt="Sid's Reddit" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
+</p>
 
 ---
 
