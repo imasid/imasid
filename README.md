@@ -44,8 +44,8 @@
 <br><br>
 
 ---
-
-**My Tech Stack**
+<p align="center">
+**My Tech Stack** <br>
 <code><img height="30" src="png icons/c only.png"> </code>
 <code><img height="30" src="png icons/c++.png"></code>
 <code><img height="30" src="png icons/java.png"></code>
@@ -55,7 +55,7 @@
 <code><img height="30" src="png icons/css.png"></code>
 <code><img height="30" src="png icons/javascript.png"></code>
 <code><img height="30" src="png icons/react.png"></code>
-
+</p>
 ---
 
 
