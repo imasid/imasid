@@ -37,7 +37,7 @@
 **ABOUT ME**
 
 - I am studying more about Machine Learning and Deep learning.
-- I’m currently proficient as a  Web and Android Developer.
+- I’m currently proficient as a  Web Developer.
 - I am also an active Investor and love Music and Film production.
 - My contact : [My twitter handle ](https://twitter.com/Sid_1_);
 - 📝[My resume](https://drive.google.com/file/d/1qphGnoEWL4nyXjfNtHiXFgcYt3fkMEcO/view?usp=sharing)
