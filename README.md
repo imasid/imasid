@@ -36,7 +36,7 @@
 
 **ABOUT ME**
 
-- I am studying more about Machine Learning and Deep learning.
+- I am studying more about Decentralised Finance and Web3.
 - I’m currently proficient as a  Web Developer.
 - I am also an active Investor and love Music and Film production.
 - My contact : [My twitter handle ](https://twitter.com/Sid_1_);
@@ -50,8 +50,6 @@
 <code><img height="30" src="png icons/c only.png"> </code>
 <code><img height="30" src="png icons/c++.png"></code>
 <code><img height="30" src="png icons/java.png"></code>
-<code><img height="30" src="png icons/kotlin.png"></code>
-<code><img height="30" src="png icons/python.png"></code>
 <code><img height="30" src="png icons/html.png"></code>
 <code><img height="30" src="png icons/css.png"></code>
 <code><img height="30" src="png icons/javascript.png"></code>
