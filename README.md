@@ -15,9 +15,6 @@
   <img alt="Siddharth's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   &nbsp;
 </a>
-<a href="https://www.reddit.com/user/CrucifiedCrusader/">
-  <img alt="Sid's Reddit" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
 </p>
 
 ---
