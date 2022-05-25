@@ -19,7 +19,7 @@
 
 ---
 
-<img align=right src="https://data.whicdn.com/images/295908267/original.gif" width="300">
+<img align=right src="https://data.whicdn.com/images/295908267/original.gif">
 
 **Hey there , my name is Siddharth and I am a web programmer. At present I am pursuing my bachelors in Physics.**
 
