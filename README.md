@@ -1,10 +1,10 @@
+
+
+
+ <img src= "https://c.tenor.com/JsUuJJrIB0oAAAAd/monkey-d-luffy-luffy-smile.gif" height ="200px" align="center" /> 
+
+
 <p align = center>
-
-
- <img src= "https://c.tenor.com/JsUuJJrIB0oAAAAd/monkey-d-luffy-luffy-smile.gif" height ="200px" align="CENTER" /> 
-
----
-
  
 <a href="https://discord.gg/4QEKhWr">
   <img alt="Sid's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
