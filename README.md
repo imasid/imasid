@@ -4,6 +4,7 @@
 
 ---
 
+<center>
  <h1> HELLO THERE ! </h1>
 <a href="https://discord.gg/4QEKhWr">
   <img alt="Sid's Discord" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -18,6 +19,8 @@
   &nbsp;
 </a>
 </p>
+
+</center>
 
 ---
 
