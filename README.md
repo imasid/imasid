@@ -26,7 +26,7 @@
 
 <img align="right" src="https://data.whicdn.com/images/295908267/original.gif">
 
-**Hey there , my name is Siddharth and I am a web programmer. At present I am pursuing my bachelors in Physics.**
+**Hey there , My name is Siddharth and I am a Front-end Web Developer. At present I am pursuing my bachelors in Physics.**
 
 <!-- ![This is Wallpaper](https://cdnb.artstation.com/p/assets/images/images/014/281/887/original/brandon-ellis-cyber.gif?1543324220) -->
 
@@ -39,19 +39,17 @@
 **ABOUT ME**
 
 - I am studying more about Decentralised Finance and Web3.
-- I’m currently proficient as a  Web Developer.
+- I’m currently proficient as a Front-end Web Developer with technologies like React.
 - I am also an active Investor and love Music and Film production.
-- My contact : [My twitter handle ](https://twitter.com/Sid_1_);
-- 📝[My resume](https://drive.google.com/file/d/1qphGnoEWL4nyXjfNtHiXFgcYt3fkMEcO/view?usp=sharing)
+- My contact : [My twitter handle ](https://twitter.com/CrucfiedCrusade);
+- 📝[My resume]()
 
 <br><br>
 
 ---
 <p align="center">
 = = = My Tech Stack = = =  <br><br>
-<code><img height="30" src="png icons/c only.png"> </code>
 <code><img height="30" src="png icons/c++.png"></code>
-<code><img height="30" src="png icons/java.png"></code>
 <code><img height="30" src="png icons/html.png"></code>
 <code><img height="30" src="png icons/css.png"></code>
 <code><img height="30" src="png icons/javascript.png"></code>
