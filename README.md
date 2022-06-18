@@ -1,6 +1,6 @@
 
 
-<h1>Hello world  <img src= "https://c.tenor.com/JsUuJJrIB0oAAAAd/monkey-d-luffy-luffy-smile.gif" height ="100px" align="left" /> </h1>
+<h1><center> Hello world </center> <img src= "https://c.tenor.com/JsUuJJrIB0oAAAAd/monkey-d-luffy-luffy-smile.gif" height ="100px" align="left" /> </h1>
 
 <p align="center">
 <a href="https://discord.gg/4QEKhWr">
