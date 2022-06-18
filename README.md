@@ -38,6 +38,7 @@
 
 **ABOUT ME**
 
+- I am working on improving my Data structure and Algorithms.
 - I am studying more about Decentralised Finance and Web3.
 - I’m currently proficient as a Front-end Web Developer with technologies like React.
 - I am also an active Investor and love Music and Film production.
